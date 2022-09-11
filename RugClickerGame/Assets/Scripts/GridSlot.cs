@@ -1,0 +1,9 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class GridSlot : MonoBehaviour
+{
+    public int slotID;
+    public bool isOccupied; 
+}
